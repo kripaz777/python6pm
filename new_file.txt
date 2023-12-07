@@ -1,0 +1,3 @@
+Product Price Qty Total
+Apple 300.0 2.0 600.0 
+Banana 100.0 2.0 200.0 
